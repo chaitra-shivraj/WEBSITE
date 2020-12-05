@@ -1,0 +1,133 @@
+html{
+    height: 100%;
+}
+
+
+
+
+body{
+background-color: grey;
+background-image: url("a.jpg");
+background-size: cover;
+
+}
+
+
+.wow{
+
+    margin-left: auto;
+    margin-right: auto;
+    width:1024px;
+}
+
+header{
+
+height:108px;
+width:1024px;
+text-align: center;
+border-image-width: 56px;
+margin-top: -25px;
+
+}
+nav{
+
+background-color: rgba(235, 149, 20, 0.555);
+height:50px;
+width:1024px;
+text-align: justify;
+padding-top: 29px;
+margin-top: 29px;
+}
+main{
+
+    
+    height:400px;
+    width:1024px;
+    padding-right: auto;
+    padding-left: auto;
+    text-align: center;
+    
+    
+    
+    }
+    footer{
+
+        background-color: rgba(0, 12, 14, 0.212);
+        height:50px;
+        width:1024px;
+        text-align: center;
+        font-style: italic;
+        font-style: 16px;
+        
+
+        }
+           main h1{
+
+            font-size: 40px;
+            font-style: italic;
+            
+            color: rgb(3, 24, 21);
+            text-align: center;
+            padding-top: 10px;
+    padding-bottom: 65px;
+    padding-right: 10px;
+   
+            }
+           main p{
+
+                font-size: 20px;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+                color:rgb(26, 39, 228);
+                text-align: center;
+                padding-top: -55px;
+                padding-left: 45px;
+                padding-right: 45px;
+                font-style: oblique;
+                }
+                main a{
+
+                    font-size: 20px;
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+                    color:rgb(26, 39, 228);
+                    text-align: center;
+                    padding-top: -105px;
+                    padding-left: 85px;
+                    padding-right: 45px;
+                    font-style: oblique;
+                    }
+
+
+
+
+
+
+
+nav a{
+    padding-top: -25px;;
+padding-left: 50px;
+padding-right: 10px;
+text-decoration: none;
+text-align: center;
+font: bold;
+color:rgb(24, 3, 46);
+text-emphasis-color: rgb(160, 9, 67);
+
+}
+footer p{
+    padding-top: 65px;
+    padding-bottom: 95px;
+    color: rgb(1, 12, 8);
+    font-size: 12;
+    font-style: normal;
+}
+section h1{
+    text-align: center;
+    font-style: oblique;
+    padding-top:-107 px;
+}
+section h2{
+    text-align: center;
+    font-style: oblique;
+    color: rgb(9, 138, 52);
+
+}
